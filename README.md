@@ -12,4 +12,4 @@ pickle
 
 
 Note use pip install 
-<img src="../../gt.png" alt="image">
+<img src="gt.png" alt="image">
